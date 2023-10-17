@@ -2,4 +2,4 @@
 
 author = "Sakura once said, "
 
-print(author + '"Making mistakes is okay, find the good parts."')
+print(author + '"Making mistakes is okay, find the good parts."') 

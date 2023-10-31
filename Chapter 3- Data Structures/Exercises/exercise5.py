@@ -1,6 +1,6 @@
-## Exercise 5: Change Guest List :ballot_box_with_check:
+# Exercise 5: Change Guest List 
 
-#Inviting to dinner
+# Inviting to dinner
 
 guests = ["Chaewon", "Yunjin", "Kazuha"]
 
@@ -10,7 +10,7 @@ print(f'{guests [2]}, Would you like to go to dinner with me?')
 
 print(f'Oh! {guests [0]} cannot make it to dinner, she is sick.. Let us invite Sakura instead!')
 
-#Chaewon can't make it so let's invite Sakura
+# Chaewon can't make it so let's invite Sakura
 
 guests [0] = "Sakura"
 

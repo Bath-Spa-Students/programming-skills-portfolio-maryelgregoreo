@@ -25,4 +25,3 @@ result = factorial(x)
 # print
 
 print (f' Factorial of {x}: {result}')
-

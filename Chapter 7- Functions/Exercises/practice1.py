@@ -14,4 +14,3 @@ sum = numbers (18, 81)
 # print
 
 print (f'Sum: {sum}')
-

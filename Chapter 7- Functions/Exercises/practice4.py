@@ -20,4 +20,4 @@ def circle_area (radius):
 
 area = circle_area (radius)
 
-print (f'Area of the circle: {area}')
+print (f'Area of the circle: {area:.2f} sq. units.')

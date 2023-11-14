@@ -1,4 +1,4 @@
-## Exercise 4: Stages of Life :ballot_box_with_check:
+## Exercise 4: Stages of Life 
 
 age = 22
 
@@ -30,3 +30,4 @@ elif age <65:
 
 else:
     print("They're an elder!")
+    

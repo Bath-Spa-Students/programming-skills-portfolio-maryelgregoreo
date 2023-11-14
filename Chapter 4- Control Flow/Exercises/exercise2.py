@@ -1,4 +1,4 @@
-## Exercise 2: Alien Colors #2 :ballot_box_with_check:
+## Exercise 2: Alien Colors #2 
 
 #When the alien is green, you earn 5 points
 

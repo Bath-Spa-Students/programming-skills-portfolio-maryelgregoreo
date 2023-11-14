@@ -1,4 +1,4 @@
-## Exercise 5: Favorite Fruit :ballot_box_with_check:
+## Exercise 5: Favorite Fruit 
 
 #Only the listed in favorite_fruits will be printed
 

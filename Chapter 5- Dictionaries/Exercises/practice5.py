@@ -25,6 +25,7 @@ print ("Members:")
 
 for (key1, value1), (key2, value2) in zip (member_1.items(), member_2.items()):
     print (f'{key1}: {value1} \t \  {key2}: {value2}')
+    
 
 
 

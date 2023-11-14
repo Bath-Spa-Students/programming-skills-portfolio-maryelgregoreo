@@ -25,4 +25,3 @@ for river in rivers.keys():
 print("\nCountries:")
 for country in rivers.values():
     print(country)
-

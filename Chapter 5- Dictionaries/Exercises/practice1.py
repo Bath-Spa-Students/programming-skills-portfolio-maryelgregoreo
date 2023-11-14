@@ -15,3 +15,4 @@ my_info = {
 
 for key, value in my_info.items():
     print (f'{key}: {value}')
+    

@@ -17,4 +17,3 @@ print ("Members:")
 # iterating through the dictionary using key and printing
 for key, value in le_sserafim.items():
     print (value)
-

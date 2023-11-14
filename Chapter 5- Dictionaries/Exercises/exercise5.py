@@ -25,3 +25,4 @@ for pet in pets:
     for key, value in pet.items():
         print(f"{key}: {value}")
     print()
+    

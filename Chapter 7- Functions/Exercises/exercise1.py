@@ -7,4 +7,3 @@ def display_message():
 
 display_message()
     
-    

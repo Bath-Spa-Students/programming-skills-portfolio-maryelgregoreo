@@ -30,4 +30,3 @@ elif age <65:
 
 else:
     print("They're an elder!")
-    

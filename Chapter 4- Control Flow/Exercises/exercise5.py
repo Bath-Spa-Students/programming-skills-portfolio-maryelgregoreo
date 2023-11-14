@@ -20,4 +20,3 @@ if "banana" in favorite_fruits:
     print("Oh! You must really like banana!")
 
 # apple, mango and tangerine is not printed since it's not listed in favorite_fruits variable
-

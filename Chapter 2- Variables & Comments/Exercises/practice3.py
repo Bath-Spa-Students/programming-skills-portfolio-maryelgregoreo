@@ -22,4 +22,3 @@ float_var = float(input_5)
 print (f' String Variable: {str_var}')
 print (f' Integer Variable: {int_var}')
 print (f' Float Variable: {float_var}')
-

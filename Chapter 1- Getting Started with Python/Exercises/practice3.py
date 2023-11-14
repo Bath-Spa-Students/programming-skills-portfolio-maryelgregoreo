@@ -1,3 +1,5 @@
+# chap 1 practice 3
+
 # Leaderboard: Output numbers 1 to 9, each on a separate line followed by a dot.
 
 print("""1.

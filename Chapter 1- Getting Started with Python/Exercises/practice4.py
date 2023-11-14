@@ -1,3 +1,5 @@
+# chap 1 practice 4
+
 # Compute the area of a triangle
 
 base = int(input ("enter the base"))

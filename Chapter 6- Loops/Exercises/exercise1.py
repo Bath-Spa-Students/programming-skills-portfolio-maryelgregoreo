@@ -26,4 +26,3 @@ if pizza_toppings:
         print(topping)
 else:
     print("You didn't choose any toppings for your pizza.")
-

@@ -10,3 +10,4 @@ names = ["Chaewon", "Sakura", "Jennifer", "Kazuha", "Eunchae"]
 
 for name in names:
     print(name)
+    

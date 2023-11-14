@@ -9,13 +9,13 @@ print a message saying you'll add that topping to their pizza."""
 pizza_toppings = []
 
 while True:
-    pizza_toppings = input("Enter a pizza topping (or 'quit' to finish): ")
+    toppings = input("Enter a pizza topping (or 'quit' to finish): ")
     
-    if pizza_toppings.lower() == 'quit':
+    if toppings.lower() == 'quit':
         break  
     
-    pizza_toppings.append(pizza_toppings)  
-    print(f"Adding {pizza_toppings} to your pizza.")
+    pizza_toppings.append(toppings)
+    print(f"Adding {toppings} to your pizza.")
 
 
 # displaying the final list of pizza toppings
@@ -26,8 +26,4 @@ if pizza_toppings:
         print(topping)
 else:
     print("You didn't choose any toppings for your pizza.")
-
-
-
-
 

@@ -30,8 +30,3 @@ words_2 = ("sequence", "index", "concatenate", "slice", "sort")
 # looping the new glossary
 for words_2, definition in glossary_2.items():
     print(f"\n{words_2} - {definition}")
-
-
-
-
-

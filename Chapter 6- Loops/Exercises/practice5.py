@@ -15,12 +15,12 @@ while True:
 
 # if condition to break
 
-    if user_input == '0':
+    if user_input == 0:
         break
 
 # if condition to assign the largest number input to largest_number
 
-    if largest_number is 0 or number > largest_number:
+    if largest_number == 0 or number > largest_number:
         largest_number = number
 
 # print
